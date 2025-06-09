@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Auto Delete Attachments
 
 Automatically deletes unused attachments from your Assets/Attachments folder when you remove them from notes.
