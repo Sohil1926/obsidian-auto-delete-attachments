@@ -1,0 +1,10 @@
+{
+    "id": "auto-delete-attachments",
+    "name": "Auto Delete Attachments",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically deletes attachments from the Assets/Attachments folder when removed from notes",
+    "author": "Sohil Athare",
+    "authorUrl": "https://github.com/sohil1926",
+    "isDesktopOnly": false
+  }
